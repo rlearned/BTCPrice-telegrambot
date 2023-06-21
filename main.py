@@ -11,5 +11,5 @@ time_interval = 10 * 60 # time in seconds between notifications
 def get_bitcoin_price():
     url = 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest'
     headers = {
-        # I need to finish Learn Python 3 before continuing, because this is dictionary stuff
+        # I need to finish the Learn Python3 before continuing, because this is dictionary stuff
     }
